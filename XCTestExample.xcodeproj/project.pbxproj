@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DC7F45B72B78286300BCA40A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DC7F45B62B78286300BCA40A /* main.m */; };
+<<<<<<< HEAD
 		DC7F45C52B78287A00BCA40A /* MathKit.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7F45C42B78287A00BCA40A /* MathKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DC7F45CB2B78288E00BCA40A /* MyRect.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7F45C92B78288E00BCA40A /* MyRect.h */; };
 		DC7F45CC2B78288E00BCA40A /* MyRect.m in Sources */ = {isa = PBXBuildFile; fileRef = DC7F45CA2B78288E00BCA40A /* MyRect.m */; };
@@ -34,6 +35,10 @@
 		};
 /* End PBXContainerItemProxy section */
 
+=======
+/* End PBXBuildFile section */
+
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* Begin PBXCopyFilesBuildPhase section */
 		DC7F45B12B78286300BCA40A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -44,6 +49,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+<<<<<<< HEAD
 		DC7F45D22B78293C00BCA40A /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -55,17 +61,22 @@
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		DC7F45B32B78286300BCA40A /* XCTestExample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XCTestExample; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7F45B62B78286300BCA40A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		DC7F45C22B78287A00BCA40A /* MathKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MathKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7F45C42B78287A00BCA40A /* MathKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MathKit.h; sourceTree = "<group>"; };
 		DC7F45C92B78288E00BCA40A /* MyRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyRect.h; sourceTree = "<group>"; };
 		DC7F45CA2B78288E00BCA40A /* MyRect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyRect.m; sourceTree = "<group>"; };
 		DC7F45D72B7829C900BCA40A /* MathKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MathKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7F45D92B7829C900BCA40A /* MathKitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MathKitTests.m; sourceTree = "<group>"; };
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				DC7F45CE2B78293C00BCA40A /* MathKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -89,6 +101,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC7F45DB2B7829C900BCA40A /* MathKit.framework in Frameworks */,
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,10 +113,14 @@
 			isa = PBXGroup;
 			children = (
 				DC7F45B52B78286300BCA40A /* XCTestExample */,
+<<<<<<< HEAD
 				DC7F45C32B78287A00BCA40A /* MathKit */,
 				DC7F45D82B7829C900BCA40A /* MathKitTests */,
 				DC7F45B42B78286300BCA40A /* Products */,
 				DC7F45CD2B78293C00BCA40A /* Frameworks */,
+=======
+				DC7F45B42B78286300BCA40A /* Products */,
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 			sourceTree = "<group>";
 		};
@@ -110,8 +128,11 @@
 			isa = PBXGroup;
 			children = (
 				DC7F45B32B78286300BCA40A /* XCTestExample */,
+<<<<<<< HEAD
 				DC7F45C22B78287A00BCA40A /* MathKit.framework */,
 				DC7F45D72B7829C900BCA40A /* MathKitTests.xctest */,
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,6 +145,7 @@
 			path = XCTestExample;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		DC7F45C32B78287A00BCA40A /* MathKit */ = {
 			isa = PBXGroup;
 			children = (
@@ -163,6 +185,10 @@
 		};
 /* End PBXHeadersBuildPhase section */
 
+=======
+/* End PBXGroup section */
+
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* Begin PBXNativeTarget section */
 		DC7F45B22B78286300BCA40A /* XCTestExample */ = {
 			isa = PBXNativeTarget;
@@ -171,18 +197,25 @@
 				DC7F45AF2B78286300BCA40A /* Sources */,
 				DC7F45B02B78286300BCA40A /* Frameworks */,
 				DC7F45B12B78286300BCA40A /* CopyFiles */,
+<<<<<<< HEAD
 				DC7F45D22B78293C00BCA40A /* Embed Frameworks */,
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 			buildRules = (
 			);
 			dependencies = (
+<<<<<<< HEAD
 				DC7F45D12B78293C00BCA40A /* PBXTargetDependency */,
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 			name = XCTestExample;
 			productName = XCTestExample;
 			productReference = DC7F45B32B78286300BCA40A /* XCTestExample */;
 			productType = "com.apple.product-type.tool";
 		};
+<<<<<<< HEAD
 		DC7F45C12B78287A00BCA40A /* MathKit */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DC7F45C62B78287A00BCA40A /* Build configuration list for PBXNativeTarget "MathKit" */;
@@ -219,6 +252,8 @@
 			productReference = DC7F45D72B7829C900BCA40A /* MathKitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -231,12 +266,15 @@
 					DC7F45B22B78286300BCA40A = {
 						CreatedOnToolsVersion = 15.2;
 					};
+<<<<<<< HEAD
 					DC7F45C12B78287A00BCA40A = {
 						CreatedOnToolsVersion = 15.2;
 					};
 					DC7F45D62B7829C900BCA40A = {
 						CreatedOnToolsVersion = 15.2;
 					};
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 				};
 			};
 			buildConfigurationList = DC7F45AE2B78286300BCA40A /* Build configuration list for PBXProject "XCTestExample" */;
@@ -253,12 +291,16 @@
 			projectRoot = "";
 			targets = (
 				DC7F45B22B78286300BCA40A /* XCTestExample */,
+<<<<<<< HEAD
 				DC7F45C12B78287A00BCA40A /* MathKit */,
 				DC7F45D62B7829C900BCA40A /* MathKitTests */,
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 			);
 		};
 /* End PBXProject section */
 
+<<<<<<< HEAD
 /* Begin PBXResourcesBuildPhase section */
 		DC7F45C02B78287A00BCA40A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
@@ -276,6 +318,8 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* Begin PBXSourcesBuildPhase section */
 		DC7F45AF2B78286300BCA40A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -285,6 +329,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		DC7F45BE2B78287A00BCA40A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -316,6 +361,10 @@
 		};
 /* End PBXTargetDependency section */
 
+=======
+/* End PBXSourcesBuildPhase section */
+
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* Begin XCBuildConfiguration section */
 		DC7F45B82B78286300BCA40A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -452,6 +501,7 @@
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		DC7F45C72B78287A00BCA40A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -544,6 +594,8 @@
 			};
 			name = Release;
 		};
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -565,6 +617,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+<<<<<<< HEAD
 		DC7F45C62B78287A00BCA40A /* Build configuration list for PBXNativeTarget "MathKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -583,6 +636,8 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 /* End XCConfigurationList section */
 	};
 	rootObject = DC7F45AB2B78286300BCA40A /* Project object */;

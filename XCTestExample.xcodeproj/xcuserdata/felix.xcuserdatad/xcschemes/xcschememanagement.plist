@@ -4,6 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+<<<<<<< HEAD
 		<key>MathKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -14,6 +15,8 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+=======
+>>>>>>> e08881b294f687d509795b7f51946a650d20a33a
 		<key>XCTestExample.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
